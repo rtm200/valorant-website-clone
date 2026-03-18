@@ -14,5 +14,6 @@ This project recreates the layout and UI of [Valorant](https://playvalorant.com/
 just open index.html on browser
 
 ## Screenshot
-![Screenshot](./screenshots/valorant.png)
+![Screenshot](./screenshots/valorant-1.png)
+![Screenshot](./screenshots/valorant-2.jpeg)
 
